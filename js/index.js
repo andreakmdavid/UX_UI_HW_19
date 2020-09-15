@@ -1,6 +1,3 @@
-console.log("Your index.js file is loaded correctly!");
-
-
 <!-- Hotjar Tracking Code for https://andreakmdavid.github.io/ux_ui_hw_19/ -->
 <script>
     (function(h,o,t,j,a,r){
